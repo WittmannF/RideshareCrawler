@@ -1,5 +1,5 @@
 # RideshareCrawler
-This code tries to understand routes, dates and types of offers from rideshare posts. For example the following post:
+This code tries to understand routes, dates and types of offers from posts of rideshare foruns. For example the following post:
 
   "Offering:
   SLO to San Diego 
