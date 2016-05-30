@@ -1,11 +1,11 @@
 # RideshareCrawler
 This code tries to understand routes, dates and types of offers from rideshare posts. For example the following post:
 
-  Offering:
+  "Offering:
   SLO to San Diego 
   Tomorrow Thursday 5/26 leaving around 6 or 7pm
   Requesting $20 for gas
-  Message me if you need a ride!
+  Message me if you need a ride!"
 
 Will return the following information:
   post_type = 'offering'
